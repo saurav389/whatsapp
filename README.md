@@ -26,3 +26,7 @@ python whatsapp.py
 
 # Scan the QR CODE
 # And hit space and then hit enter in terminal
+
+# If you want to understand to logical part of the code then go here
+
+https://sauravportfolio.pythonanywhere.com/blog/whatsapp-chatbot/
